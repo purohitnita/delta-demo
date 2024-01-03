@@ -1,6 +1,6 @@
 # delta-demo
 This is a demo for git and github class.
 # teacher
-shardha khapra
+unkown
 # student
-delta-demo
+apna collage
